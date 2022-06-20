@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HW02</string>
+    <string name="name">Name:</string>
+    <string name="displayTasks">You have 0 tasks</string>
+    <string name="viewTasks">View Tasks</string>
+    <string name="createTasks">Create A Task</string>
+    <string name="upcomingTasks">Upcoming Tasks</string>
+    <string name="taskName">None</string>
+    <string name="taskInformation">Task Information</string>
+    <string name="date">Date:</string>
+    <string name="priority">Priority:</string>
+    <string name="cancel">Cancel</string>
+    <string name="inputTaskName">Task Name</string>
+    <string name="setDate">Set Date</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="submit">Submit</string>
+</resources>

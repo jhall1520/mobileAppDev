@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Group14_InClass09</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="createNewAccount">Create New Account</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="forumTitle">Forum Title</string>
+    <string name="forumDescr">Forum Description</string>
+    <string name="logout">Logout</string>
+    <string name="newForum">New Forum</string>
+    <string name="trash">Trash</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group14_InClass06</string>
+    <string name="average">Average:</string>
+    <string name="generate">Generate</string>
+    <string name="selectComplexity">Select Complexity</string>
+    <string name="times">1 Times</string>
+    <string name="progress">0/0</string>
+</resources>
